@@ -1,5 +1,7 @@
 # Cosmic Sign Scribe
 
+[![CI](https://github.com/ghostland-dev/cosmic-sign-scribe/actions/workflows/ci.yml/badge.svg)](https://github.com/ghostland-dev/cosmic-sign-scribe/actions/workflows/ci.yml)
+
 Astrology sign reading generator.
 
 ## Features
